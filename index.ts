@@ -1,5 +1,3 @@
-"use strict";
-
 export interface HttpMetric {
   method?: string;
   url?: string;
